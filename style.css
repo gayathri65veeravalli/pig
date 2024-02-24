@@ -1,0 +1,106 @@
+.face{
+    height: 400px;
+    width: 400px;
+    background-color: pink;
+    border-radius: 130%;
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 100px;
+    border: 2px black  solid  ;
+    position: relative;
+}
+.eye1{
+    height:100px;
+    width: 100px;
+    background-color:white;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 100px;
+    border: 2px black  solid  ;
+}
+.inner1{
+    height:40px;
+    width: 40px;
+    background-color:black;
+    border-radius:50%;
+    margin-left:30px;
+    margin-top: 30px;
+   
+   
+}
+.eye2{
+    height:100px;
+    width: 100px;
+    background-color:white;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 90px;
+    margin-top: 90px;
+    border: 2px black  solid ;
+}
+.inner2{
+    height:40px;
+    width: 40px;
+    background-color:black;
+    border-radius:50%;
+    margin-left:30px;
+    margin-top: 30px;
+   
+} 
+.nose{
+    height:70px;
+    width: 155px;
+    background-color:palevioletred;
+    border-radius: 38%;
+    display: inline-block;
+    margin-left: 120px;
+    margin-top: 30px;
+    border: 2px black  solid  ;
+    position: relative;
+}
+.inner3{
+    height:60px;
+    width: 40px;
+    background-color:black;
+    border-radius:50%;
+    margin-left:30px;
+    position: absolute;
+    margin-top: 5px;
+}
+.inner4{
+    height:60px;
+    width: 40px;
+    background-color:black;
+    border-radius:50%;
+    margin-left:90px;
+    position: absolute;
+    margin-top: 5px;
+
+}
+.ear{
+    position:relative;
+}
+.ear1{
+    height:100px;
+    width: 100px;
+    background-color:pink;
+    border-radius:50%;
+    /*display: inline-block;*/
+    margin-left:70px;
+    border: 2px black  solid ;
+    margin-top:100px;
+    position: absolute;
+}
+.ear2{
+    height:100px;
+    width: 100px;
+    background-color:pink;
+    border-radius:50%;
+    /*display: inline-block;*/
+    margin-left:450px;
+    border: 2px black  solid ;
+    margin-top:110px;
+    position: absolute;
+}
+
